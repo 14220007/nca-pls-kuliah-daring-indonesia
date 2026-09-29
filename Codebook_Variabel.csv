@@ -1,0 +1,62 @@
+Kolom,Keterangan,Konstruk,Skala
+Q1,Negara,—,teks
+Q4,"Status (1 penuh waktu, 2 paruh waktu)",—,kategori
+Q5,"Jenjang (1 S1, 2 S2, 3 S3)",—,kategori
+Q6,"Bidang ilmu (1 Seni & Humaniora, 2 Sosial, 3 Terapan, 4 Alam & Hayati)",—,kategori
+Q7,Usia (tahun),—,angka
+Q8,"Jenis kelamin (1 L, 2 P, 3 beragam, 4 tidak menyebut)",—,kategori
+Q9,"Kuliah tatap muka dibatalkan (1 tidak, 2 ya, 3 tidak berlaku)",—,kategori
+Q16b,Butir Dukungan dosen,TS,Likert 1–5
+Q16c,Butir Dukungan dosen,TS,Likert 1–5
+Q16d,Butir Dukungan dosen,TS,Likert 1–5
+Q16e,Butir Dukungan dosen,TS,Likert 1–5
+Q19b,Butir Dukungan institusi,AS,Likert 1–5
+Q19c,Butir Dukungan institusi,AS,Likert 1–5
+Q19d,Butir Dukungan institusi,AS,Likert 1–5
+Q19f,Butir Dukungan institusi,AS,Likert 1–5
+Q19g,Butir Dukungan institusi,AS,Likert 1–5
+Q19h,Butir Dukungan institusi,AS,Likert 1–5
+Q19i,Butir Dukungan institusi,AS,Likert 1–5
+Q10a,Butir Kepuasan kuliah sinkron,SCO,Likert 1–5
+Q12a,Butir Kepuasan kuliah sinkron,SCO,Likert 1–5
+Q10d,Butir Kepuasan kuliah asinkron,ACO,Likert 1–5
+Q12d,Butir Kepuasan kuliah asinkron,ACO,Likert 1–5
+Q10e,Butir Kepuasan kuliah asinkron,ACO,Likert 1–5
+Q12e,Butir Kepuasan kuliah asinkron,ACO,Likert 1–5
+Q21c,Butir Akses teknologi,LT,Likert 1–5
+Q21d,Butir Akses teknologi,LT,Likert 1–5
+Q21f,Butir Akses teknologi,LT,Likert 1–5
+Q21g,Butir Akses teknologi,LT,Likert 1–5
+Q22a,Butir Keterampilan komputer,CS,Likert 1–5
+Q22b,Butir Keterampilan komputer,CS,Likert 1–5
+Q22c,Butir Keterampilan komputer,CS,Likert 1–5
+Q22d,Butir Keterampilan komputer,CS,Likert 1–5
+Q22e,Butir Keterampilan komputer,CS,Likert 1–5
+Q22f,Butir Keterampilan komputer,CS,Likert 1–5
+Q22g,Butir Keterampilan komputer,CS,Likert 1–5
+Q26d,Butir Kekhawatiran hidup,WOR,Likert 1–5
+Q26e,Butir Kekhawatiran hidup,WOR,Likert 1–5
+Q26g,Butir Kekhawatiran hidup,WOR,Likert 1–5
+Q25a,Butir Emosi akademik positif,PAE,Likert 1–5
+Q25b,Butir Emosi akademik positif,PAE,Likert 1–5
+Q25c,Butir Emosi akademik positif,PAE,Likert 1–5
+Q25d,Butir Emosi akademik negatif,NAE,Likert 1–5
+Q25e,Butir Emosi akademik negatif,NAE,Likert 1–5
+Q25f,Butir Emosi akademik negatif,NAE,Likert 1–5
+Q25i,Butir Emosi akademik negatif,NAE,Likert 1–5
+Q20b,Butir Hasil belajar (persepsi),LO,Likert 1–5
+Q20d,Butir Hasil belajar (persepsi),LO,Likert 1–5
+Q20e,Butir Hasil belajar (persepsi),LO,Likert 1–5
+Q20c,Prestasi memburuk (sudah dibalik: 6 − nilai asli; tidak dipakai dalam LO final),LO (versi 4 butir),Likert 1–5
+Q18a,Kepuasan organisasi kuliah,—,Likert 1–5
+Q19a,Kepuasan dukungan dosen,—,Likert 1–5
+TS,Skor rata-rata konstruk Dukungan dosen,TS,1–5
+AS,Skor rata-rata konstruk Dukungan institusi,AS,1–5
+SCO,Skor rata-rata konstruk Kepuasan kuliah sinkron,SCO,1–5
+ACO,Skor rata-rata konstruk Kepuasan kuliah asinkron,ACO,1–5
+LT,Skor rata-rata konstruk Akses teknologi,LT,1–5
+CS,Skor rata-rata konstruk Keterampilan komputer,CS,1–5
+WOR,Skor rata-rata konstruk Kekhawatiran hidup,WOR,1–5
+PAE,Skor rata-rata konstruk Emosi akademik positif,PAE,1–5
+NAE,Skor rata-rata konstruk Emosi akademik negatif,NAE,1–5
+LO,Skor rata-rata konstruk Hasil belajar (persepsi),LO,1–5

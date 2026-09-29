@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Bila memakai data atau kode ini, harap sitasi sebagai berikut."
+title: "Data dan kode replikasi: Syarat perlu dan faktor penentu keberhasilan belajar daring mahasiswa Indonesia (NCA + PLS-SEM)"
+authors:
+  - family-names: "Rumintarsih"
+    given-names: "Ade"
+    affiliation: "Fakultas Sistem Informasi"
+version: "1.0.0"
+date-released: "2026-09-29"
+license: "MIT"
+references:
+  - type: data
+    title: "Impacts of the Covid-19 Pandemic on Life of Higher Education Students: Global Survey Dataset from the First Wave"
+    authors:
+      - family-names: "Aristovnik"
+        given-names: "Aleksander"
+      - family-names: "Keržič"
+        given-names: "Damijana"
+      - family-names: "Ravšelj"
+        given-names: "Dejan"
+      - family-names: "Tomaževič"
+        given-names: "Nina"
+      - family-names: "Umek"
+        given-names: "Lan"
+    year: 2021
+    doi: "10.1016/j.dib.2021.107659"
+    license: "CC-BY-4.0"
