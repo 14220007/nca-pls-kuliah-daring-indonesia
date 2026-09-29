@@ -2,7 +2,7 @@
 
 Data dan kode replikasi untuk artikel:
 
-> Rumintarsih, A. (2026). *Syarat perlu dan faktor penentu keberhasilan belajar daring mahasiswa Indonesia: Pendekatan necessary condition analysis dan PLS-SEM* [Naskah dalam proses]. Fakultas Sistem Informasi.
+> Rumintarsih, A. (2026). *Syarat perlu dan faktor penentu keberhasilan belajar daring mahasiswa Indonesia: Pendekatan necessary condition analysis dan PLS-SEM* [Naskah dalam proses]. Fakultas Sistem Informasi, Universitas Nusa Mandiri.
 
 ## Isi repositori
 
